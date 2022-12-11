@@ -1,1 +1,1 @@
-Yourong Zhang is currently a senior undergraduate in Peking University. He conducted robot vision and video understanding research. He is going to work on quantitative trading.
+Yourong Zhang is currently a senior undergraduate at Peking University. He has conducted research in the areas of robot vision and video understanding. He is planning to work on quantitative trading.
